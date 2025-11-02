@@ -5,3 +5,4 @@ This repository contains the starter code for many different projects. They are 
 
 # GIT Commit
 Successfully made a commit using git.
+Now trying to push and pull from terminal...
