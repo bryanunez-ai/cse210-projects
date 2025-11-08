@@ -1,0 +1,10 @@
+Journal.cs
+- Reads the storage.txt fiel
+- Split the values using ','
+- Store the values in a list: 12/02/2025 | Something funny happened today? | Yes, bla bla bla
+- return the list
+
+Attributes:
+- date: string
+- prompt: string
+- entry: string
