@@ -1,2 +1,0 @@
-date,prompt,entry
-12/02/2025,Something funny happened today?,Yes.asdasdasdasdd
