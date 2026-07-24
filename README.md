@@ -1,8 +1,4 @@
-# cse210-ww-student-template
-This is the starter code for students in the worldwide content version of CSE 210.
+# CSE210: Programming With Classes
+This repo contains my assignments of a 7 weeks course CSE210 at Brigham Young Unviersity (BYU). In this course, I learned the structure and concepts of Object-Oriented Programming (OOP) using C#.
 
-This repository contains the starter code for many different projects. They are arranged folders by week. There is also an an empty sandbox project that can be used to play around with any concept you would like.
-
-# GIT Commit
-Successfully made a commit using git.
-Now trying to push and pull from terminal...
+- Bryan Núñez
